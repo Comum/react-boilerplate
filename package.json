@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "Miguel Ribeiro",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Comum/react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Comum/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Comum/react-boilerplate#readme"
 }
